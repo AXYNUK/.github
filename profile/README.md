@@ -49,23 +49,7 @@
 
 ---
 
-## 📦 Key Repositories
-
-> **Note:** Some of our repositories are private.
-
-### 🏠 [axyn-homepage](https://github.com/AXYNUK/axyn-homepage)
-
-The main customer-facing platform for AXYN.
-
-- **Stack**: SvelteKit, TypeScript, Tailwind
-- **Live**: [axyn.co.uk](https://axyn.co.uk)
-
-### 📚 [axyn-docs](https://github.com/AXYNUK/axyn-docs)
-
-Comprehensive documentation and guides.
-
-- **Stack**: MkDocs / Docusaurus
-- **Live**: [docs.axyn.co.uk](https://docs.axyn.co.uk)
+## 📦 Open Source Projects
 
 ### 🔧 [Nominet-EPP](https://github.com/AXYNUK/Nominet-EPP)
 
